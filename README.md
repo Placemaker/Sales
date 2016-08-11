@@ -1,3 +1,5 @@
-# My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 销售就是搞定人
+书不错，整理了下笔记。
+
+
