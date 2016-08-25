@@ -1,7 +1,14 @@
 # Summary
 
-* [Introduction](README.md)
-* [销售的基础知识](chapter1.md)
+* [介绍](README.md)
+* [找工作](chapter1.md)
 * [选择](xuan_ze.md)
 * [迷茫](mi_mang.md)
+* [销售的解读和境界](销售的解读和境界.md)
+* [客户](客户.md)
+* [销售管理](销售管理.md)
+* [工作技能技巧](工作技能技巧.md)
+* [说话沟通拜访](说话沟通拜访.md)
+* [成长](成长.md)
+* [思维里的墙](思维里的墙.md)
 
